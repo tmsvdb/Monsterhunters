@@ -5,18 +5,20 @@ Assets is the collective name for Items, Relations and Resources. All of these A
 
 ## Relations & Resources
 ### Relations
-Relations are the people you know, and mean something to your character. A Relation can be someone that often helps you out, family and friend, but also the people that hold a personal grudge or even hate you. People you have in your Relations have some sort of special connetion to your character.
+```
+// OLD RULES
+Relations are the people you know, and mean something to your character. A Relation can be someone that helps you out, family and friend, but also the people that hold a personal grudge or even hate you. People you have in your Relations have some sort of special connetion to your character.
 
-During downtime you can choose to create new people. You may specify what kind of person you like to see in the game, and what the purpose of this person is. Roll a Skill from the Social category that is most relevant for the situation, or person you like to create. There is a downside to creating new people, if you fail your roll, the GM now owns this Relation, and even better the GM may choose what this Relation thinks of you, and it's not going to be good. The GM may always choose to drop the Relation if he feels it doesn't add anything to the game.
+During downtime you can choose to create new people. You may specify what kind of person you like to see in the game, and what the purpose of this person is. Roll a Skill from the Social category that is most relevant for the situation, or person you like to create. There is a downside to creating new people, if you fail your roll, the GM now owns this Relation, and even better the GM may choose what this Relation thinks of you. The GM may always choose to drop the Relation if he feels it doesn't add anything to the game.
 
 A Relation can help you out in a Conflict or Obstruction, see the `Receiving Help from others` topic in the `Overcome` section. Relation can also offer help and support in another way, in this case you have to specify how this Relation gives you support, but it must be within the narrative and the rest of the group must agree.
 
-In a Conflict or Obstruction a Relation rolls a number of dice equal to her influence plus the level of the bond you have with her. If you do so, drop the level of your bond with this person by one. If you do something back for this person the bond becomes stronger, if you sacrifice one of your other assets, you may raise the level of the bond by one. This must be inline with the narrative.
+In a Conflict or Obstruction a Relation rolls a number of dice equal to her influence plus the level of the bond you have with her. If you do so, drop the level of your bond with this person by one. If you do something back for this person the bond becomes stronger, if you sacrifice one of your other assets, you may raise the level of the bond by one. Explain to the group what this looks like within the narrative.
 
 If you want something else from a Relation, you have to propose a sacrifice and bargain with the group for what you want, the GM has a final say.
-
+```
 ### Resources
-Resources represent your status or position within a powerful group or orginazation and all the places and large objects you own. The rules on Resources work exactly the same as with Relations.
+Resources represent your status or position within a powerful group or orginazation as well as the places and objects you own. The rules on Resources work the same as with Relations except the 
 
 ---
 
@@ -75,7 +77,7 @@ You can obtain new item by buying them. If you own enough coins you may spend th
 |Healing Ointment|3 Coin|Any|1|Cures Wounded.|
 |Healing Salve|4 Coin|Any|2|Cures Wounded.|
 |Healing Potion|5 Coin|Any|3|Cures Wounded.|
-|Refreshing Ointment|1 Coin|1|Any|Cures Dazed.|
+|Refreshing Ointment|1 Coin|Any|1|Cures Dazed.|
 |Refreshing Salve|2 Coin|Any|2|Cures Dazed.|
 |Refreshing Potion|3 Coin|Any|3|Cures Dazed.|
 |Lucid Ointment|2 Coin|Any|1|Cures Confused.|
@@ -85,6 +87,13 @@ You can obtain new item by buying them. If you own enough coins you may spend th
 |Tranquility Salve|4 Coin|Any|2|Cures Shock.|
 |Tranquility Potion|5 Coin|Any|3|Cures Shock.|
 
-<!--TODO: services-->
 ## Services
-### Lists services:
+|Name|Price|Slots|Uses|Effect|
+|-|:-:|:-:|:-:|-|
+|A Decent Meal|1 Coin|1|1|A tasty and soothing meal, Cures Hungry & Thirsty.|
+|A Royal Meal|2 Coin|2|1|Cures Hungry & Thirsty and is intensely rich in flavor.|
+|A Hero's Meal|3 Coin|2|1|Cures Hungry & Thirsty and gives an Advantage on your next overcome roll.|
+|Tracking|equals the difficulty|-|1|For the right price, someone else will do the tracking for you. See Test of Skill: Hunt for difficulty and effect.|
+|Entertainment|Cost 2|-|1|For some it is games, for other the music of a famous bard, as long as it makes you happy. Cures Shock.
+|Healing|Cost 2|-|1|A good nights sleep and someone that tends your wounds. Cures Wounded.|
+|Join a travel caravan|equals the difficulty|-|1|For the right price, you can yoin a caravan to travel to other places. See Test of Skill: Travel for difficulty and effect.|

@@ -166,9 +166,9 @@ Pick one of the classes below, add it to your Class Aspects together with the bo
 >- +5 point to the Attribute Accurate.
 >- +5 points to the Skill Hunting and +5 points to one Skill from the Recon category.
 >- +10 points to the Wise: Predator wise.
->- Add a your hunting compangion to your Relations at level 2 with a influence of 2.
+>- Add a tracking companion to your Relations at level 2 with a influence of 2.
 >
->_Gain 1 Fate point each time try to hunt down a person or an animal._
+>_Gain 1 Fate point each time try to hunt down a person or an animal in order to reach one of your goals_
 
 >**Thief**
 >- +5 point to the Attribute Agile.
