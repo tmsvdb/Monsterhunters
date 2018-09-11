@@ -77,6 +77,10 @@ Heal can only be done in a clean place of rest and only during Downtime.
 Navigate is rolled when travelling to other places.
 
 ---
+<!--TODO: Travel-->
+## Travel
+
+---
 
 ## Survival
 Survival is rolled to find food in the wild, or to rest up in dangerous places. Before you roll you must decide, to roll Survival to Camp, or to Find food and water. If you are with a group, you could decide to split up tasks. For either one you need to roll the difficulties below using the rules for rolling an Obstruction.

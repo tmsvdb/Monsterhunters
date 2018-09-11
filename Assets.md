@@ -5,29 +5,50 @@ Assets is the collective name for Items, Relations and Resources. All of these A
 
 ## Relations & Resources
 ### Relations
-```
-// OLD RULES
-Relations are the people you know, and mean something to your character. A Relation can be someone that helps you out, family and friend, but also the people that hold a personal grudge or even hate you. People you have in your Relations have some sort of special connetion to your character.
+You can choose to improve an existing relationship you have or to create new relationships. Roleplay what happens and Overcome an Obstruction roll using the predetermined Skill and difficulty. See the chapter Overcome, on how to overcome an Obstruction.
 
-During downtime you can choose to create new people. You may specify what kind of person you like to see in the game, and what the purpose of this person is. Roll a Skill from the Social category that is most relevant for the situation, or person you like to create. There is a downside to creating new people, if you fail your roll, the GM now owns this Relation, and even better the GM may choose what this Relation thinks of you. The GM may always choose to drop the Relation if he feels it doesn't add anything to the game.
+If you want to improve an existing relationship you could choose to help this person out, give this person Resources or to buy this person Items, the GM will have to agree, before rolling. The difficulty for increasing an existing relation is equal to the relations current level plus the relations influence. When you succeed you may add 1 point to the level of the relation upto a maximum of 3 levels. when you fail, drop the level the relationship by one. If a relation has dropped lower than one, this person becomes an enemy of you. 
 
-A Relation can help you out in a Conflict or Obstruction, see the `Receiving Help from others` topic in the `Overcome` section. Relation can also offer help and support in another way, in this case you have to specify how this Relation gives you support, but it must be within the narrative and the rest of the group must agree.
+If you want to create a new relationship, let the group know the name, what kind of person and how you approach this person. The difficulty of creating a new relation is equal to the relations influence, if you succeed you write down the relation at level 1. If you roll twice the relations influence, your relationship starts at level 2, and if you roll three times the relations influence your relation starts at level 3. If you fail, you create an enemy or antagonist! A relationship level cannot become more than 3.
 
-In a Conflict or Obstruction a Relation rolls a number of dice equal to her influence plus the level of the bond you have with her. If you do so, drop the level of your bond with this person by one. If you do something back for this person the bond becomes stronger, if you sacrifice one of your other assets, you may raise the level of the bond by one. Explain to the group what this looks like within the narrative.
+> The influence level of a Relation is equal to how wel practiced this person is in a particular skill. Or how much Resources, or how high of a Resources this person owns. Write this down next to the Relations name. Examples are:
+>- A king has an influence of 5 because he owns the Resource Royalty at influence level 5. You may use this relation only if the royaly resource can help you out.
+>- A trained Hunter With a tracking dog has an influence of 3 bacause he owns the Hunting Skill at level 2 and a Resource Tracking dog with a influence of 1. You may use this relation if you need help Tracking.
+>- An average Baker that owns a Resource Kitchen has an influence of 2 because he owns the Cooking Skill at level 1 and a Kitchen with an influence of 1.
+>- A purposeless dweller, or a begger dosn't own any Skills or Resources and therefore has an influence level of 0.
 
-If you want something else from a Relation, you have to propose a sacrifice and bargain with the group for what you want, the GM has a final say.
-```
-### Resources
-Resources represent your status or position within a powerful group or orginazation as well as the places and objects you own. The rules on Resources work the same as with Relations except the 
+### Resources 
+You can choose to improve an existing group or organization, or create a new one. You can also choose to improve an existing location or create a new location. A location is a specific Scene that belongs to you. For instance the class Alchemist starts with a Laberatorium. This Laberatorion is a Scene that extists in a Place of your choice.
+
+The rules for improving or creating groups and organizations work exactly the same as the rules for Relations.
+
+The rules for improving or creating a new location also work the same as the rules for Relations, but with the following differences:
+- when improving, if you fail the loction you owned is destroyed, you still own it, but it is in ruins.
+- when creating a new location and you fail, you still create the location, but it is owned by someone else.
+
+Roleplay what happens and roll to Overcome the specific Obstruction roll using the predetermined Skill and difficulty. See the chapter Overcome, on how to overcome an Obstruction.
+
+> The influence level of a Resource is based on the Resources size and participants or workers. How far stretches the influence of a persons status or group, or how large is a locations.
+>
+> First of status and groups: 
+>- If the influence stretches over a place the influence is 1. If the influence stretches over a kingdom, region or terratory the influence is 2. If the influence stretches over a continent the influence is 3 etc.
+>- If a group or organization owns Resources themselfs add the level influence of these Resources.
+>- If a group or organization has a few (about 5-10) participants, the influence increases by one. If they have an average amount (about 50) of participants the influence inceases by 2. If they have a lot of participants (about 100) the influence increases by 3 etc.
+>
+> Second locations:
+>- A location that has the size of one scene has an influence of 1. If it's a place the influence is 2. A kingdom, region or terratory has an influence of 3. If it is a continent it has an influence of 4 etc.
+>- If a location has a few (about 5-10) workers or servants, the influence increases by one. If the locations  has an average amount (about 50) of workers or servants the influence inceases by 2. If the location has a lot of workers (about 100) the influence increases by 3 etc.
 
 ---
 
 ## Items
 Item are objects your character carries with her, and can apply different dice bonuses when rolling to overcome. You character has 8 different slots in which she can carry an item.
 
-You can obtain new item by buying them. If you own enough coins you may spend that amount of coins and write the item on you charactersheet. 
+You can obtain new item by buying them. If you own enough coins you may spend that amount of coins and write the item on you charactersheet. If you are in a village only items and services up to 2 coins are availeble to you, if you are in a town you can buy items and services upto 4 coin. And in a city you may buy any of the items and services from the lists below.
 
-### Lists of generic items:
+You can also sell items that you carry, see the items list on your charactersheet. You sell items for 50% of the base price of the corresponing item in the lists below, rounded down. When selling items in a village the people can only spend upto 5 coin per roll. When selling in a town the poelple of that town can only spend 10 coin per roll. When selling in a city there is no limit.
+
+### Lists of generic items and services:
 ### Weapons
 |Name|Price|Slots|Effect|
 |-|-|-|-|
@@ -87,7 +108,7 @@ You can obtain new item by buying them. If you own enough coins you may spend th
 |Tranquility Salve|4 Coin|Any|2|Cures Shock.|
 |Tranquility Potion|5 Coin|Any|3|Cures Shock.|
 
-## Services
+### Services
 |Name|Price|Slots|Uses|Effect|
 |-|:-:|:-:|:-:|-|
 |A Decent Meal|1 Coin|1|1|A tasty and soothing meal, Cures Hungry & Thirsty.|

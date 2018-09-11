@@ -7,9 +7,12 @@ Party goals come from problems that live in the world around you, after all you 
 ## Start of the game
 You can start the game after you created a new world, see chapter: `World Building`, and every player has a character, see chapter: `Character Creation`.
 
-This is your first session. At the start of every session you play, every player must decide what the goal for their character is going to be. Discuss as a group what your `Personal goal`s are going to be, help eachother out in this process and let other players know what your `Personal goal` is going to be. A personal goal must always be linked to an Asset, the section [Personal goals](#Personal) below describes how link these goals to Assets, how you complete these goals, and what you get when you do so.
+This is your first session. At the start of every session you play, every player must decide what the goal for their character is going to be. Discuss as a group what your `Personal goal`s are going to be, help eachother out in this process and let other players know what your `Personal goal` is going to be. A personal goal must always be linked to an Asset, the section [Personal goals](#Personal) below describes how to link these goals to Assets, how you complete these goals, and what you get when you do so.
 
-If all `Personal goals` are set, determine who will start the game (just pick, or roll dice if necessary), and play out everyone's turns clockwise. The first player in turn may tell the group what action she is going to take, after she completed her action, she gives the turn to the next player.
+If all `Personal goals` are set, the GM will start the game and play out every players turns clockwise. First the GM will sketch a start scenario, and will give the players an opening scene to start working on their goals. The player next to the GM starts their turn and may tell the group what action she is going to take. After she completed her action, she gives the turn to the next player. Once the circle is complete the GM starts again, and may now start to move his pawns.
+
+## GM turn
+During your turn you progress the actions of one of the players enemies in order to stop them from reaching their goal. You may 
 
 ## Playing your turn
 During your turn you pick what action your character is going to take from the list below:
@@ -23,7 +26,7 @@ During your turn you pick what action your character is going to take from the l
 ## Travel to another `Place`.
 You may Travel to another place, this may be an existing place, or this may be new place of your choice. In order to go to an existing place you roll a `Test of Skill` Travel and check the result, in the `Testable Skills` secetion. If you wand to go to a non-existing place (meaning you haven't wrote this place down in the places list on the `World Sheet`) you create one using the Test of Skill Navigate, in the `Testable Skills` section.
 
-If you leave, you ask which of your party members are going to join you. If you go alone, or others decide to stay, the group is separated. Characters that stay behind get an extra turn, before you arrive at you new detination. If for some reason you get stuck, during your travels. People that stayed behind mey try to find you, roll a `Test of Skill` Hunt, whith a predetermind difficulty: the difficulty of the Travel or Navigate the lost person rolled plus one. While Traveling or Hunting, if you still had an extra turn from others Traveling or Hunting, you lose that extra turn.
+If you leave, you ask which of your party members are going to join you. If you go alone, or others decide to stay, the group is separated. Characters that stay behind get an extra turn, before you arrive at you new detination. If for some reason you get stuck, during your travels. People that stayed behind may try to find you, roll a `Test of Skill` Hunt, whith a predetermind difficulty: the difficulty of the Travel or Navigate the lost person rolled plus one. While Traveling or Hunting, if you still had an extra turn from others Traveling or Hunting, you lose that extra turn.
 
 ---
 ## Progress your `Personal goal`
@@ -33,43 +36,32 @@ Your personal goal is always about personal gain. There are three different cata
 3. Resources (groups and orginazations you join or locations you own)
 
 >### Items
->You can try to earn a special item, tell the group what the name of this item is, and why it is special. Also tell the group what obstacle is in the way of getting the item. The group may tell you how difficult this obstacle is, but the more difficult, the better the item is going to get. The base difficulty of an Item is equal to the cost of a corresponding item in the general items list. Extra difficulty added by players mean an extra bonus die, when using the item. If you fail, the item still exists but is in the hands of someone else.
+>You can try to earn a special item, tell the group what the name of this item is, and why it is special. Also tell the group what obstacle is in the way of getting the item. The group may tell you how difficult this obstacle is, but the more difficult, the better the item is going to get. The base difficulty of an Item is equal to the cost of a corresponding item in the general items list. Extra difficulty added by players mean an extra bonus die, when using the item. If you fail, the item still exists but is in the hands of an NPC.
 
 >### Relations
->You can choose to improve an existing relationship you have or to create new relationships. 
-
->If you want to improve an existing relationship you could choose to help this person out, or to buy this person items. The difficulty for increasing an existing relation is equal to the relations level plus one. When you succeed you may add 1 point to the level of the relation upto a maximum of 3 levels. when you fail, drop the level the relationship by one. If a relation has dropped lower than one, this person becomes an enemy of you. 
-
->If you want to create a new relationship, let the group know the name, what kind of person and how you approach this person. The difficulty of creating a new relation depends on the relations influence, if you succeed you write down the relation at level 1. If you roll twice the relations influence, your relationship starts at level 2, and if you roll three times the relations influence your relation starts at level 3. If you fail, you create an enemy or antagonist! A relationship level cannot become higher than level 3.
+>You can choose to improve an existing relationship you have or to create new relationships. See chapter Assets on Relations.
 
 >### Resources 
->You can choose to improve an existing group or organization, or create a new one. You can also choose to improve an existing location or create a new location. A location is a specific Scene that belongs to you. For instance the class Alchemist starts with a Laberatorium. This Laberatorion is a Scene that extists in a Place of your choice.
-
->The rules for improving or creating groups and organizations work exactly the same as the rules for Relations.
-
->The rules for improving or creating a new location also work the same as the rules for Resources, but with the following differences:
->- when improving, if you fail the loction you owned is destroyed, you still own it, but it is in ruins.
->- when creating a new location and you fail, you still create the location, but it is owned by someone else.
+>You can choose to improve an existing group or organization, or create a new one. You can also choose to improve an existing location or create a new location. A location is a specific Scene that belongs to you. For instance the class Alchemist starts with a Laberatorium. This Laberatorion is a Scene that extists in a Place of your choice. ee chapter Assets on Resources.
 
 Roleplay what happens and roll to Overcome the specific Obstruction roll using the predetermined Skill and difficulty. See the chapter Overcome, on how to overcome an Obstruction.
 
 ---
 <!--TODO: Party goals-->
 ## Progress the `Party goal`
-The world you created has `Current problems` and `Impending problems`. When you choose to progress the party goal, you must choose a scene within place you are in now, and make a plan. You may decide which of the other characters are in this scene, and together with the other characters you start planning. Only characters that are in the same Place and are not Taken-out, are allowed to join.
+The world you created has `Current problems` and `Impending problems`. When you choose to progress the party goal, you must choose a scene within the place you are in now, and make a plan. You may decide which of the other characters are in this scene, and together with these other characters you start planning. Only characters that are in the same Place and are not Taken-out, are allowed to join.
 
 >**Phase 1: Set a Goal**
 >
-> Because you choose to progress, your character is the one that called all party member together, because your character beliefs something must be done about your current situation. Tell the others what problem your charcater sees in the future and what you feel the party should do. All the characters that have joined, must agree on pursuing the action. If someone does not agree with the proposed goal, that character may give the group a slightly different version of the goal. If there is still a dispute about the specifics, all characters are starting an Escaltion level 1 Conflic in the form af a Debate. See rules on overcoming Obstacles. 
+> Because you choose to progress, your character is the one that called all party member together, because your character beliefs something must be done about your current situation. Tell the others what problem your charcater sees in the future and what you feel the party should do. All the characters that have joined, must agree on pursuing the goal. If someone does not agree with the proposed goal, that character may give the group a slightly different version of the goal. If there is still a dispute about the specifics, all characters are starting an Escaltion level 1 Conflic in the form af a Debate. See rules on overcoming Obstacles. 
 
-<!--TODO: Setting dangers and positive outcomes-->
+If the group decided on the goal, each player must tell what happens if they reach the goal and what danger lies in their path. After all players have decided on one positive or negative thing, the GM may add one to both.
 
 When you have decided on a dangers, you immediately go to the `Phase: Make a plan` below. 
 
-
 >**Phase 2: Make a Plan**
 >
->All the players at the table decide together, how acchieveble or difficult this goal is going to be. The more difficult you as a group set this goal, the more obstacles you are going to have to overcome, but also the bigger the reward. 
+>The GM decides how acchieveble or difficult this goal is going to be. The more difficult the GM set this goal, the more obstacles you are going to have to overcome, but also the bigger the reward. 
 >Pick a difficulty: 
 >   - Easy = 2 Obsacles (level 1)
 >   - Moderate = 3 Obstacles (level 2)
@@ -79,7 +71,7 @@ When you have decided on a dangers, you immediately go to the `Phase: Make a pla
 >There are 6 different type of obstacles your plan can exist of:
 >   - Hunt (track down a person or creature)
 >   - Investigate (find clue's about a what happend in the past)
->   - Study (Gather useful or even nessesary infomation)
+>   - Study (Gather useful or even nessesary information)
 >   - Travel (travel to another Place)
 >   - Explore (explore Scenes within a place)
 >   - Face Enemies (face an existing or new enemy)
@@ -91,7 +83,7 @@ When you have decided on a dangers, you immediately go to the `Phase: Make a pla
 >   - Moderate difficulty: relationship level of 2.
 >   - Hard diffculty: relationship level of 3.
 >   - Exert difficulty: relationship level of 4.
->   - Extra, if you don't have any enemies, or you as a group feel you need a new one: create a new enemy or monster and set its relationship level at 2 and discuss the as a group how strong this creature is. If its a weak enemy, set its Influence to 1. If its a moderate enemy use 2, or strong enemy use 3. For dragons, experts and powerful enemies use an influence of 4.
+>   - Extra, if you don't have any enemies, or you as a group feel you need a new one: The GM creates a new enemy or monster and set its relationship level at 2 and discuss the as a group how strong this creature is. If its a weak enemy, set its Influence to 1. If its a moderate enemy use 2, or strong enemy use 3. For dragons, experts and powerful enemies use an influence of 4.
 >
 >When you as a group have finished deciding on the obstacle types, you place them in the order they sould be completed in. After this the turn of the player starting the Progress the `Party goal` ends.
 
@@ -111,7 +103,7 @@ You may choose to prepare to one of the earlier named actions:
 2. Progress your `Personal goal`.
 3. Progress the `Party goal`.
 
-If you choose to do so, tell the group how you are going to acchieve this, and roleplay this out. Preparing is always an Obstacle with a difficulty of 2. 
+If you choose to do so, tell the group how you are going to achieve this, and roleplay this out. Preparing is always an Obstacle with a difficulty of 2. 
 - When you are successful, anyone may choose to get an advantage if that character uses the created preperation when overcoming the action you prepared for. 
 - If you failed, anyone trying to overcome the action you prepared for gets a disadvantage. 
 
@@ -120,6 +112,6 @@ This advantage or disadvantage only counts once. After the action is rolled the 
 ---
 <!--TODO: Downtime-->
 ## Downtime
-When you are in a Urban environment
+When you are in a city, town or village you may choose to take downtime. You can use downtim to buy or create itmes, to restore inflictions, or to earn money.
 ### Buy or sell `Items`
-Roll a Test of Skill Haggle, see chapter: `Tastable Skills`
+During down time you may choose to buy or sell Items according to the rules on buying generic items. If you don't like the prices or you want to sell for better prices roll a Test of Skill Haggle, see chapter: `Tastable Skills`.

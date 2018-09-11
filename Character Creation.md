@@ -106,6 +106,7 @@ In the list below you can find the Skills your character can learn:
 >- Hunting (Agile)
 >- Entertain (Empathy)
 >- Healing (Insightful)
+>- Study (Insightful)
 
 Note: the word within the (braces) is the `Linked Attribute` and is important when using the skill.
 
