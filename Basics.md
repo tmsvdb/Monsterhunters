@@ -1,117 +1,123 @@
 # The basics of the game
+## The main objective
 The main objective of the game is reaching `Goals`. These goals give you as a group a reason to tell stories together, and give the characters you play a reason to go out and explore the world. The character you as a player play, must complete `Personal goals` in order to progress. For completing `Personal goals` you earn `Assets`. As a party you as a group must complete `Party goals` this also leads to personal progression, and expansion of the narative. successfully completing `Party goals` improve your character's `Attributes`. 
 
-Party goals come from problems that live in the world around you, after all you are a group of heroic adventures. `Personal goals` are the things you character want's from this world, and therefore create interactions. Before starting the game you first create the world around you, and from what lives in this world you can set `Party goals`, see chapter: `World Building`. After you created the world, you need a party. A party consists of characters, which are played by all the players around the table. These characters are created together, see the chapter: `Character Creation`
+Party goals come from problems that live in the world around you, after all you are a group of heroic adventures. `Personal goals` are the things you character want's from this world, and therefore create interactions. Before starting the game you first create the world around you, and from what lives in this world you can set `Party goals`, see chapter: `World Building`. After you created the world, you need a party. A party consists of characters, which are played by all the players around the table. These characters are created together, see the chapter: `Character Creation`.
 
----
-## Start of the game
-You can start the game after you created a new world, see chapter: `World Building`, and every player has a character, see chapter: `Character Creation`.
+First steps:
+1. Create a world using the chapter World Building.
+2. Create characters using the chacpter Character Creation.
+3. Pick one of the problems and write down a relating party goal.
+4. Every player chooses an Special Item, Relation or Resource they want to get or improve this session.
 
-This is your first session. At the start of every session you play, every player must decide what the goal for their character is going to be. Discuss as a group what your `Personal goal`s are going to be, help eachother out in this process and let other players know what your `Personal goal` is going to be. A personal goal must always be linked to an Asset, the section [Personal goals](#Personal) below describes how to link these goals to Assets, how you complete these goals, and what you get when you do so.
-
-If all `Personal goals` are set, the GM will start the game and play out every players turns clockwise. First the GM will sketch a start scenario, and will give the players an opening scene to start working on their goals. The player next to the GM starts their turn and may tell the group what action she is going to take. After she completed her action, she gives the turn to the next player. Once the circle is complete the GM starts again, and may now start to move his pawns.
-
-## GM turn
-During your turn you progress the actions of one of the players enemies in order to stop them from reaching their goal. You may 
-
-## Playing your turn
-During your turn you pick what action your character is going to take from the list below:
-1. Travel to another `Place`.
-2. Progress your `Personal goal`.
-3. Progress the `Party goal`.
-4. Prepare.
-5. Downtime.
-
----
-## Travel to another `Place`.
-You may Travel to another place, this may be an existing place, or this may be new place of your choice. In order to go to an existing place you roll a `Test of Skill` Travel and check the result, in the `Testable Skills` secetion. If you wand to go to a non-existing place (meaning you haven't wrote this place down in the places list on the `World Sheet`) you create one using the Test of Skill Navigate, in the `Testable Skills` section.
-
-If you leave, you ask which of your party members are going to join you. If you go alone, or others decide to stay, the group is separated. Characters that stay behind get an extra turn, before you arrive at you new detination. If for some reason you get stuck, during your travels. People that stayed behind may try to find you, roll a `Test of Skill` Hunt, whith a predetermind difficulty: the difficulty of the Travel or Navigate the lost person rolled plus one. While Traveling or Hunting, if you still had an extra turn from others Traveling or Hunting, you lose that extra turn.
-
----
-## Progress your `Personal goal`
+### Setting your `Personal goal`
 Your personal goal is always about personal gain. There are three different catagories of stuff to gain in this game, called Assets. These three categories are: 
 1. Items (the stuff your character carries)
 2. Relations (friend and family your character has)
 3. Resources (groups and orginazations you join or locations you own)
 
->### Items
->You can try to earn a special item, tell the group what the name of this item is, and why it is special. Also tell the group what obstacle is in the way of getting the item. The group may tell you how difficult this obstacle is, but the more difficult, the better the item is going to get. The base difficulty of an Item is equal to the cost of a corresponding item in the general items list. Extra difficulty added by players mean an extra bonus die, when using the item. If you fail, the item still exists but is in the hands of an NPC.
+Tell the group which one of these you want for your personal Goal. See chapter Assets for the difficulties and the rules for creating or improving Relations and Resources, and all of the Items. 
 
->### Relations
->You can choose to improve an existing relationship you have or to create new relationships. See chapter Assets on Relations.
-
->### Resources 
->You can choose to improve an existing group or organization, or create a new one. You can also choose to improve an existing location or create a new location. A location is a specific Scene that belongs to you. For instance the class Alchemist starts with a Laberatorium. This Laberatorion is a Scene that extists in a Place of your choice. ee chapter Assets on Resources.
-
-Roleplay what happens and roll to Overcome the specific Obstruction roll using the predetermined Skill and difficulty. See the chapter Overcome, on how to overcome an Obstruction.
+### Setting your `Party goal`
+The world you created has `Current problems` and `Impending problems`. When you setting the party goal, you as a group pick one of the problems and decide on how this will effect the party in the near future. 
 
 ---
-<!--TODO: Party goals-->
-## Progress the `Party goal`
-The world you created has `Current problems` and `Impending problems`. When you choose to progress the party goal, you must choose a scene within the place you are in now, and make a plan. You may decide which of the other characters are in this scene, and together with these other characters you start planning. Only characters that are in the same Place and are not Taken-out, are allowed to join.
 
->**Phase 1: Set a Goal**
->
-> Because you choose to progress, your character is the one that called all party member together, because your character beliefs something must be done about your current situation. Tell the others what problem your charcater sees in the future and what you feel the party should do. All the characters that have joined, must agree on pursuing the goal. If someone does not agree with the proposed goal, that character may give the group a slightly different version of the goal. If there is still a dispute about the specifics, all characters are starting an Escaltion level 1 Conflic in the form af a Debate. See rules on overcoming Obstacles. 
+## Completing Goals
+First we need to set the goals difficulty. The difficulty of Personal Goals are described in the Setting a personal Goal section above. For the party goal the GM will set the difficulty. In order to complete these goals you must collect a number of Leads per Goal equal to the difficulty of that specific Goal. If you collected enough Leads you can trade them in and the GM give you a final Obstacle, either an Obstruction or a Conflict, that represents the Problem you are facing. The difficulty is equal to the set Difficulty, add 1 point of difficulty if it is an Obstruction. If you Succeed this final Obstacle you complete your goal all the effects of a success come into play. If you fail, you still complete the goal, but all the effects of failing will come into play.
 
-If the group decided on the goal, each player must tell what happens if they reach the goal and what danger lies in their path. After all players have decided on one positive or negative thing, the GM may add one to both.
+For completeing a Party goal you get Attribute points equal to the difficulty plus you gain 2 Fate points. For completing a Personal Goal you get or improve the Asset you wanted and you gain 3 Fate points. 
 
-When you have decided on a dangers, you immediately go to the `Phase: Make a plan` below. 
+Goal difficulties:
+- 1 = easy
+- 2 = moderate 
+- 3 = hard
+- 4 = expert
+- 5 = impossible
 
->**Phase 2: Make a Plan**
->
->The GM decides how acchieveble or difficult this goal is going to be. The more difficult the GM set this goal, the more obstacles you are going to have to overcome, but also the bigger the reward. 
->Pick a difficulty: 
->   - Easy = 2 Obsacles (level 1)
->   - Moderate = 3 Obstacles (level 2)
->   - Hard = 4 Ostacles (level 3)
->   - Expert = 5 Obstacles (level 4)
->
->There are 6 different type of obstacles your plan can exist of:
->   - Hunt (track down a person or creature)
->   - Investigate (find clue's about a what happend in the past)
->   - Study (Gather useful or even nessesary information)
->   - Travel (travel to another Place)
->   - Explore (explore Scenes within a place)
->   - Face Enemies (face an existing or new enemy)
->
->You may pick a number of obstacle types equal to the difficulty you set. You may pick every obstacle type only once. To overcome these Obstacles you roll a Test of Skill except for Face Enemies. 
->
->For Face Enemies you pick one of the parties enemies from the `World Sheet` with a influence level that comes closest to the difficulty set:
->   - Easy difficulty: relationship level of 1.
->   - Moderate difficulty: relationship level of 2.
->   - Hard diffculty: relationship level of 3.
->   - Exert difficulty: relationship level of 4.
->   - Extra, if you don't have any enemies, or you as a group feel you need a new one: The GM creates a new enemy or monster and set its relationship level at 2 and discuss the as a group how strong this creature is. If its a weak enemy, set its Influence to 1. If its a moderate enemy use 2, or strong enemy use 3. For dragons, experts and powerful enemies use an influence of 4.
->
->When you as a group have finished deciding on the obstacle types, you place them in the order they sould be completed in. After this the turn of the player starting the Progress the `Party goal` ends.
-
->**Phase 3: Execute**
->If a player decides to continue to Progress the `Party goal`, that player must pick the first obstacle in line and complete it by rolling either a Test of Skill or a Conflict depending on the obstacle type. If all obstacles are completed, you have finished the 'Patry Goal' and you and all other players that have written down this goal may remove it from you character sheet and add 5 points to your Attribute's divided any way you like.
-> 
->Player characters that do not have the goal set yet, can choose to play a scene in which they talk to the others, and get it later on. These player should be in the same place as one of the players that allready has the goal.
->
->If all players are Taken-out you are Game Over. There are no actions to take from here.
->
->If all player have Given-in you have automatically fleed the place you are in, and are in a different place.  
+An other option for setting goal difficulties is to randomize them using a six sided die.
 
 ---
+
+## Start play
+If all player characters have a Party and a Personal goal, the game can start. Players take turns clockwise tarting with GM. 
+
+### The first round
+At the start of the game the GM sketches a start scenario with all the character in it, and all the players tell what thier characters look like and what they are doing in this start scenario. 
+
+### Following rounds
+GM can choose one of the following actions:
+1. Introduce an Obstacle.
+2. Evolve a Relation or Resource.
+3. Explore a Goal (GM).
+
+Players can choose one of 6 actions:
+1. Find a Lead.
+2. Explore a Goal (Player).
+3. Take Downtime.
+4. Travel to another Place.
+5. Prepare yourself.
+6. Rest.
+
+---
+## Introduce an Obstacle.
+The main task of the GM is to make the life of the player charcters as hard as possible. You can choose to put an ostruction in the way of the characters or start a conflict with one or all of the characters. You can use the list of antagonists on the party sheet or create new antagonists.
+
+---
+
+## Evolve a Relation or Resource.
+The player characters have relations with NPCs, groups and organizations in the world. These Relations are owned by players, but during your turn one of these relations may confront the owners character with a problem. This coud be spending not enough time with friends or family to paying fees in order to maintain the Guild you joined.
+
+---
+
+## Explore a Goal.
+Players and the GM can choose to explore one of the goals in play. Exploring a goal means that you are going to find out what happens if a goal becomes true, or if you fail to reach that goal. As a player you tell the group how you are going to find out what the results of reaching a goal are. The difficulty is equal to the difficulty of the goal. The GM decides what skill you should use, and what type of Obstacle you face. You need to succeed on an Obstacle roll and if you do so write down the good thing you hoped in the Goal's effects of success list, if you fail your roll, the GM may write down something bad in the Goal's effects of success list.
+
+The GM can also take this action, but in this case you don't need to roll anything. and you alway add somthing to the effects of failure list of one of the Goals in play.
+
+---
+
+## Find a Lead
+In order to solve a problem you need to find out where the problem came from and how you can solve it. As a player you think of a Lead yourself and descibe to the group how this comes into play. Then the GM will decide what kind of skill you need to roll and what type of obstacle you face (see Chapter Ovecoming obstacles). You roll to find out if the Lead you proposed is true or not. If true you write down the Lead in your Leads list on your character sheet (if its a personal goal) or party sheet (in case of a party goal). 
+
+---
+
+## Downtime
+During Downtime u can take actions to improve you character.
+1. Cook > Cook and serve a meal (requires a Kitchen)
+2. Brew > Brew potions that can help out (requires a Laboratory)
+3. Craft > Craft items that can help out (requires a Workshop)
+4. Entertain > Entertain a crowd (requires a Tavern or Inn)
+5. Heal > Heal someone else (requires a Hospital)
+6. Trade > Buy and or sell Items (required a Market or specific Shop)
+
+You can only use these if you are in a Place that has the required Scenes.
+See chapter `Tastable Skills` for the specifics on how to roll any of these. See chapter Assets, if your interested in buying items or services.
+
+When you take any of the Downtime action you earn 1 Fate point
+
+---
+
+## Travel to another `Place`.
+You may Travel to another place, this may be an existing place, or this may be new place of your choice. In order to go to an existing place you roll a `Test of Skill` Travel and check the result, in the `Testable Skills` secetion. If you want to go to a non-existing place (meaning you haven't wrote this place down in the places list on the `World Sheet`) you create one using the Test of Skill Navigate, in the `Testable Skills` section.
+
+If you leave, you ask which of your party members are going to join you. If you go alone, or others decide to stay, the group is separated. Characters that stay behind get an extra turn, before you arrive at you new destination. If for some reason you get stuck, during your travels. People that stayed behind may try to find you, roll a `Test of Skill` Hunt, whith a predetermind difficulty: the difficulty of the Travel or Navigate the lost person rolled plus one. While Traveling or Hunting, if you still had an extra turn from others Traveling or Hunting, you lose that extra turn.
+
+---
+
 ## Prepare
 You may choose to prepare to one of the earlier named actions: 
 1. Travel to another `Place`.
 2. Progress your `Personal goal`.
 3. Progress the `Party goal`.
 
-If you choose to do so, tell the group how you are going to achieve this, and roleplay this out. Preparing is always an Obstacle with a difficulty of 2. 
+If you choose to do so, tell the group how you are going to acchieve this, and roleplay this out. Preparing is always an Obstacle with a difficulty of 2. 
 - When you are successful, anyone may choose to get an advantage if that character uses the created preperation when overcoming the action you prepared for. 
 - If you failed, anyone trying to overcome the action you prepared for gets a disadvantage. 
 
 This advantage or disadvantage only counts once. After the action is rolled the advantage or disadvantage dissapates.
 
 ---
-<!--TODO: Downtime-->
-## Downtime
-When you are in a city, town or village you may choose to take downtime. You can use downtim to buy or create itmes, to restore inflictions, or to earn money.
-### Buy or sell `Items`
-During down time you may choose to buy or sell Items according to the rules on buying generic items. If you don't like the prices or you want to sell for better prices roll a Test of Skill Haggle, see chapter: `Tastable Skills`.
+
+## Rest
+When you are in a city, town or village you can choose to buy services to get rid of Inflictions. In case you are in the wild or in a dangerous area, you can only only heal up a bit. This can be done by using the Test of Skill Survival in Chapter Testable Skills.

@@ -21,9 +21,7 @@ Your character needs a name and a description so we know how to call your charac
 
 ---
 ## Goals
-The most important element of the game are goals. Goals are what drives your character to action. You have 2 different goal types, a personal goal and a party goal. A personal goal is something your character wants to achieve or a obstacle your character needs to overcome. A party goal is goal you set as a party after you get your first mission from the GM. You may set a party goal the way you want, you could choose for instance to sabotage the mission,  as long as every party member agrees.
-
->If you complete a personal or party goal you may add 1 point to an attribute or a skill. The attribute must have something to do with the Personal Goal you set for your character.
+The most important element of the game are goals. Goals are what drives your character to action. You have 2 different goal types, a personal goal and a party goal. A personal goal is something your character wants to achieve or a obstacle your character needs to overcome. A party goal is goal you set as a party after you get your first mission from the GM. You may set a party goal the way you want, you could choose for instance to sabotage the mission, as long as every party member agrees.
 
 For now you can leave your goals blank, but at the start of every session, you need to make up your goals right after the GM did his intro.
 

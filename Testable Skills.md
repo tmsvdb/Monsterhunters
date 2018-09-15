@@ -26,7 +26,7 @@ Craft can only be done during Downtime.
 
 ---
 
-## Hunting
+## Track
 You can use the Hunting Skill to track down any creature. Succeeding in tracking a creature down is based on the creature and the environment. Count the bonuses and penalties list below to determine the difficulty. after the difficulty is determined used the rules to overcome an Obstruction. If you fail, you pay the stakes etc.
 
 You start with a difficulty of 1 and add modifiers from the list below:
@@ -80,6 +80,7 @@ Navigate is rolled when travelling to other places.
 <!--TODO: Travel-->
 ## Travel
 
+
 ---
 
 ## Survival
@@ -100,10 +101,10 @@ If you use survival in a village, town or city, your presents in that place beco
 
 ---
 
-## Haggle
+## Trade
 The normal rules for buying an item is paying the price in coins as shown in the item tables see Assets. The base rule for selling an item, is you get half the base price in coins of the item rounded down.
 
-If you want to buy an item cheaper, or you want more value out of selling items, you roll Haggle. Haggling is rolled using the base Obstruction rules, whit the difficulties descibed below:
+If you want to buy an item cheaper, or you want more value out of selling items, you roll Haggle. Haggling is rolled using the base Obstruction rules, with the difficulties descibed below:
 
 **Buying**
 - difficulty 1 = get an item with a total value of 1 coin for free when buying items for a total price of 10 coins or higher.
@@ -112,7 +113,6 @@ If you want to buy an item cheaper, or you want more value out of selling items,
 - difficulty 4 = pay 1 coin less or get an item with a total value of 2 coins for free when buying items for a total price of 4 coins or higher.
 - difficulty 5 = pay 2 coin less or get an item with a total value of 3 coins for free when buying items for a total price of 5 coins or higher.
 
-When you fail your roll 
 
 **Selling**
 - difficulty 1 = sell the item for 60% of the items base value intead of 50%, rounded down.
