@@ -53,13 +53,15 @@ You may bargain for something else to be at stake. Tell everyone how an Item, Re
 ---
 
 ## Gather your dice
-Tell everyone how you want to overcome the obstacle at hand, and pick an appropriate Skill or Wise. Take a number of 6 sided dice equal to the Skill- or Wises bonus and keep them aside, in a pool.
-Add an extra die to your die pool if you approach the situation in the manner of the Approach Aspect you picked.
-If you have a clear Advantage on which everyone agrees, or you gained an Advantage as a bonus, you may add an extra die the pool. You can only get one die from having an Advantage. Some standard advantages are:
-Armed vs unarmed in an Escalation level of 2 or higher.
-Sneaking in a dark surrounding.
-Intimidating an obviously smaller group.
-If you have an Item, Relation, Resource that is appropriate to this situation you may add their bonuses.
+Tell everyone how you want to overcome the obstacle at hand, and pick an appropriate Skill or Wise. 
+- Take one six sided die and start a dice roll pool. 
+- Take a number of 6 sided dice equal to the Skill- or Wises bonus from your Fate point pool and add them in the separate dice roll pool.
+- Add an extra die to your dice roll pool if you approach the situation in the manner of the Approach Aspect you picked.
+- If you have a clear Advantage on which everyone agrees, or you gained an Advantage as a bonus, you may add an extra die to the dice roll pool. You can only get one die from having an Advantage. Some example advantages are:    
+    - Armed vs unarmed in an Escalation level of 2 or higher.
+    - Sneaking in a dark surrounding.
+    - Intimidating an obviously smaller group.
+- If you have an Item, Relation, Resource that is appropriate to this situation you may add their bonuses to the dice roll pool.
 
 ---
 
@@ -95,8 +97,6 @@ First the stake you set becomes a reality, if you agreed on taking stress you ta
 After determining the outcome you could accept your fate and move on to the next player's turn. 
 
 **Raise the Stakes**: If you don’t like the outcome you can raise the stakes, this means that you put something new at stake, and reroll all of your dice.
-
-**Use Fate points**: Another option to success is by using Fate points. You may tell everyone which Aspects u use and how this aspect can help you in this situation. If everyone agrees, you may add one extra die for every Aspect. You may only use every Aspect once per roll (so you can add a maximum of 5 dice to this obstacle roll, if you can explain how all 5 of your Aspect can help you out in this situation).
 
 ---
 

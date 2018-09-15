@@ -468,3 +468,6 @@ You start with one or two friends or family members you know from your past. You
 
 ## Resources
 You only Start with Resources if you got one from your Class, see the Class topic in the Aspects section above. 
+
+## Fate points
+You start the game with 10 Fate points.
